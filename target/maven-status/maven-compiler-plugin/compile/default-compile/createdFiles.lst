@@ -2,6 +2,7 @@ utils\PropertiesLoader.class
 pages\HotelSearchPage.class
 pages\ResultsPage.class
 utils\DriverFactory.class
+utils\Screenshot.class
 pages\LoggedUserPage.class
 pages\SignUpPage.class
 utils\WaitUtil.class
